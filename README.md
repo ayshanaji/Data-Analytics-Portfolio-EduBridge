@@ -1,2 +1,2 @@
 # Edubridge-Data-Analytics
-### Projects completed during my training 
+### Projects  and works completed during my training 
