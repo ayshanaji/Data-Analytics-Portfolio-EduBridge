@@ -1,0 +1,21 @@
+# join two list 
+l<-list(78,89,34,23,12)
+l1<-list(56,89,3212,90)
+f<-c(l,l1)
+print(l)
+print(l1)
+print(f)
+typeof(f)
+for(i in l)
+{
+  print(i)
+}
+print(77 %in% 1)
+print(letters)
+print(month.name)
+print(month.abb)
+print(l)
+print(typeof(l))
+v<-unlist(l)
+print(v)
+print(typeof(v))
