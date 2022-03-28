@@ -26,7 +26,7 @@ Data contains information about a student’s test preparation course with their
 1.	How effective is the test preparation course?
 2.	Which major factors contribute to test outcomes?
 3.	What would be the best way to improve student scores on each test?
-4.	To understand the influence of parents background on students’ performance 
+4.	To understand the influence of parents background on students’ performance
 5.	To understand whether math’s score is related to writing and reading score
 6.	To extract more closer details about the student such as percentage to know the pass and fail details.
 
