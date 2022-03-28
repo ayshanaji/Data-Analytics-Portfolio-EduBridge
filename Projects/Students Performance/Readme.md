@@ -31,14 +31,14 @@ Data contains information about a student’s test preparation course with their
 6.	To extract more closer details about the student such as percentage to know the pass and fail details.
 
 # SOFTWARE USED:
-•	JUPYTER NOTEBOOK 
-•	EXCEL
+* JUPYTER NOTEBOOK 
+* EXCEL
 
 # LIBRARIES USED:
-•	PANDAS
-•	NUMPY
-•	SEABORN
-•	MATPLOTLIB
+* PANDAS
+* NUMPY
+* SEABORN
+* MATPLOTLIB
 
 # CONCLUSION:
 * Test preparation course gives the result depending upon the race/ethnicity they are in and even the number of students in each group differs.
