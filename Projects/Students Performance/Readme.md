@@ -40,6 +40,12 @@ Data contains information about a student’s test preparation course with their
 •	SEABORN
 •	MATPLOTLIB
 
+# CONCLUSION:
+*Test preparation course gives the result depending upon the race/ethnicity they are in and even the number of students in each group differs.
+*Reading writing and math scores are correlated so to improve the scores students should make a habit of reading and writing to increase their skill 
+*In general, scores taken by males and females do not differ by completion rate and pass rate.
+*Lastly, Parents education has no effect on their children which was actually a surprising fact 
+
 
 
 
