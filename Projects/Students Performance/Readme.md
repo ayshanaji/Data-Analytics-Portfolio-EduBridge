@@ -29,17 +29,17 @@ Data contains information about a student’s test preparation course with their
 5.	To understand whether math’s score is related to writing and reading score
 6.	To extract more closer details about the student such as percentage to know the pass and fail details.
 
-# Softwares used:
+### Softwares used:
 * JUPYTER NOTEBOOK 
 * EXCEL
 
-# Libraries used:
+### Libraries used:
 * PANDAS
 * NUMPY
 * SEABORN
 * MATPLOTLIB
 
-# Conclusion:
+### Conclusion:
 * Test preparation course gives the result depending upon the race/ethnicity they are in and even the number of students in each group differs.
 * Reading writing and math scores are correlated so to improve the scores students should make a habit of reading and writing to increase their skill 
 * In general, scores taken by males and females do not differ by completion rate and pass rate.
