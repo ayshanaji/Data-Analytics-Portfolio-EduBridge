@@ -1,8 +1,7 @@
-# Analysis on Student’s Performance
-      Students of The US
+# Analysis on Student’s Performance :Students of The US
       
       
-# What is Project about?
+### What is Project about?
         This EDA (Exploratory Data Analysis) is a journey through education, data visualization and exploratory data analysis of students Exam Scores at a public school to gain maximum insights on the test preparation course using Python libraries. EDA is a process of exploring data for analysis purpose. The steps involved in EDA are:
 
 * Preparing the Data: know the dataset, produce all details.
@@ -12,7 +11,7 @@
 * conclusion of analysis
 
 
-# DATA PROVIDER:
+### Data Provider:
 Data is provided by the **kaggle** website under **Students Performance Data set** which gives the details of **Marks secured by the students in high school , Students from the United States**.
 Data contains information about a student’s test preparation course with their 
 * math score 
@@ -21,7 +20,7 @@ Data contains information about a student’s test preparation course with their
 * parent’s education 
 * lunch
 
-# PURPOSE:
+### Purpose:
 "Student performance data set" is collected to gain on insight into 
 1.	How effective is the test preparation course?
 2.	Which major factors contribute to test outcomes?
@@ -30,17 +29,17 @@ Data contains information about a student’s test preparation course with their
 5.	To understand whether math’s score is related to writing and reading score
 6.	To extract more closer details about the student such as percentage to know the pass and fail details.
 
-# SOFTWARE USED:
+# Softwares used:
 * JUPYTER NOTEBOOK 
 * EXCEL
 
-# LIBRARIES USED:
+# Libraries used:
 * PANDAS
 * NUMPY
 * SEABORN
 * MATPLOTLIB
 
-# CONCLUSION:
+# Conclusion:
 * Test preparation course gives the result depending upon the race/ethnicity they are in and even the number of students in each group differs.
 * Reading writing and math scores are correlated so to improve the scores students should make a habit of reading and writing to increase their skill 
 * In general, scores taken by males and females do not differ by completion rate and pass rate.
