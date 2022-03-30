@@ -1,7 +1,7 @@
 
-### Webscraping of SAMSUNG TV prices and its rating
+### Webscraping of SAMSUNG TV prices and its rating 
 
-**Link used for scraping :**"https://www.flipkart.com/search?q=samsung+tv"**
+Link used for scraping :**"https://www.flipkart.com/search?q=samsung+tv"**
 * This is a technique to retrieve large amounts of data from the internet. 
 * This technique is highly useful in competitive pricing.there are different techniques involved in scrapping but the most common one is beautifulsoup. 
 * The data stored are unstructured and it is then converted to structured format before EDA
