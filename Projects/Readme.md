@@ -7,3 +7,5 @@
 ### Contents 
 
 * Students Performance - This directory contains the dataset and EDA done during my training in EduBridge.
+* Samsung TV prices - Webscarpping techniques are applied to get the data of prices and rating from Flipkart 
+                    - Done during the training in EduBridge
