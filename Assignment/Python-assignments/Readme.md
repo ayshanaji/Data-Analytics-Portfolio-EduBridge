@@ -1,1 +1,2 @@
-######## A quick practice on topics we learned during Edubridge 
+##### Practice work 
+* A quick check on python with mathematical concept 
