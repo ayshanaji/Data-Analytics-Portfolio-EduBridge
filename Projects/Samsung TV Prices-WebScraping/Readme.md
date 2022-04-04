@@ -1,5 +1,5 @@
 
-### Webscraping of SAMSUNG TV prices and its rating 
+### Webscraping of SAMSUNG TV prices and its rating using Python
 
 Link used for scraping :**"https://www.flipkart.com/search?q=samsung+tv"**
 * This is a technique to retrieve large amounts of data from the internet. 
