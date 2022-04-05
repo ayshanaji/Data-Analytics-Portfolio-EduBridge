@@ -1,5 +1,6 @@
 ### <u>Bike Buyers- A Quick Insights<u>
 #### Data of 1000 rows with details of bike buyers with a categorical output variable
+  * Data is collected from the kaggle website "**bike_buyers_clean.csv**"
   
 ### <u>Abstract<u>
 * This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used for prediction models using Machine Learning Algorithms. There are some NA values injected in the dataset. Use this dataset for Data Cleaning, Exploration and Visualization.
