@@ -37,8 +37,8 @@
     SMS Spam Detection
    </h1>
 </a></p>
-   * This directory contains the dataset of <b>SMS spam detection</b>provided by Kaggle
-   * Machine learning tool based on <b>Naives Bayes-Multinomial</b> to Predict the spam in the message
+   This directory contains the dataset of <b>SMS spam detection</b>provided by Kaggle.
+   Machine learning tool based on <b>Naives Bayes-Multinomial</b> to Predict the spam in the message
  
    </p>
    <body>
@@ -58,6 +58,12 @@
    </a> 
    
  * This directory contains a quick look on to the R codes analysing a data from Kaggle 
+  <body>
+   
+     
+ <p><a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Caffeine-Calorie%20-%20An%20unsupervised%20ML%20approach/Caffeine-%20Calorie%20Content%20in%20Drinks%20-%20An%20Unsupervised%20Ml%20Approach%20.ipynb>
+   <h1>Caffeine- calorie</h1>
+   </a>
 
   </body>
 <html>
