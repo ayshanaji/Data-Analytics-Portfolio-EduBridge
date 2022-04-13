@@ -31,6 +31,10 @@
 <!DOCTYPE html>
 <html>
  <body>
+    <p>
+<a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Students%20Performance-EDA/STUDENT%20PERFORMANCE%20-%20EDA%20.ipynb>
+  <h1>Students Test Performance</h1>
+   </a>
    <p>
 <a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/SMS%20Spam%20Detection/Spam%20Detection%20in%20SMS.ipynb>
   <h1>
