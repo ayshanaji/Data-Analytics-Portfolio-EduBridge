@@ -64,7 +64,7 @@
  <p><a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Caffeine-Calorie%20-%20An%20unsupervised%20ML%20approach/Caffeine-%20Calorie%20Content%20in%20Drinks%20-%20An%20Unsupervised%20Ml%20Approach%20.ipynb>
    <h1>Caffeine- calorie</h1>
    </a>
-
+This directory contains list of drinks that generally contains caffeine. Some instances are not drinks exactly. And this project is looks into the relation with caffeine, calorie with its volume content
   </body>
 <html>
          
