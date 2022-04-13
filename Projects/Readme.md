@@ -36,6 +36,7 @@
   <h1>Students Test Performance</h1>
    </a>
    <p>
+This EDA (Exploratory Data Analysis) is a journey through education, data visualization and exploratory data analysis of students Exam Scores at a public school to gain maximum insights on the test preparation course using Python libraries. 
 <a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/SMS%20Spam%20Detection/Spam%20Detection%20in%20SMS.ipynb>
   <h1>
     SMS Spam Detection
@@ -58,7 +59,7 @@
      </body>
   <body> 
   <a href ="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Bike%20Buyers%20-R%20-EDA/Bike%20Buyers%20-R%20-EDA.ipynb">
-    Bike Riders
+  Bike Riders
    </a> 
    
  * This directory contains a quick look on to the R codes analysing a data from Kaggle 
