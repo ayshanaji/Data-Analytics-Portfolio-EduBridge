@@ -1,3 +1,5 @@
+
+
 ### Data Analytics Portfolio
   This repository contains all project works using **jupyter notebook** during my trainning at **EduBridge** and also the datasets used for the purpose 
 
@@ -28,6 +30,7 @@
 * **SMS Spam Detection** - This directory contains the dataset of **SMS spam detection** provided by Kaggle and applied the Machine learning tool based on **Naives                                  Bayes-Multinomial** to Predict the spam in the message
 * **Lung Cancer Prediction-ML Approach** - This directory contains predcition of lung cancer among certain age people using the data set from Kaggle.
                                          - Certain ML approaches are aplied to check who can be the best fit for the prediction 
-* **Bike Buyers - R -EDA** -This directory contains a quick look on tot the **R** codes analysing a data from Kaggle 
+<a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Bike%20Buyers%20-R%20-EDA/Bike%20Buyers%20-R%20-EDA.ipynb"><h1>Bike Riders</h1></a>  This directory contains a quick look on to the **R** codes analysing a data from Kaggle 
+     
          
               
