@@ -33,7 +33,10 @@
 <!DOCTYPE html>
 <html>
  <body>
-  <a href =https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Bike%20Buyers%20-R%20-EDA/Bike%20Buyers%20-R%20-EDA.ipynb><h1>Bike Riders</h1></a>  This directory contains a quick look on to the R codes analysing a data from Kaggle 
+  <a href =https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Bike%20Buyers%20-R%20-EDA/Bike%20Buyers%20-R%20-EDA.ipynb><h1>Bike Riders</h1></a> 
+   
+### This directory contains a quick look on to the R codes analysing a data from Kaggle 
+
   </body>
 <html>
          
