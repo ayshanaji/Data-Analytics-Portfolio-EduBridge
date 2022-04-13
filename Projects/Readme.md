@@ -48,8 +48,12 @@ This EDA (Exploratory Data Analysis) is a journey through education, data visual
    </p>
    <body>
    </body>
- 
-   <body>
+  <body>
+   
+     
+ <p><a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Wikipedia-WebScraping/WIKIPEDIA%20-webscrapping.ipynb
+       <body> Wikipedia-WebScraping </a>
+  
    
      
  <p><a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Lung%20cancer%20Prediction-ML%20approach/LUNG%20CANCER%20SURVEY-%20MODEL%20CREATION%20(2).ipynb><h1>Lung Cancer Prediction-Most  ML approaches</h1></a></P>
