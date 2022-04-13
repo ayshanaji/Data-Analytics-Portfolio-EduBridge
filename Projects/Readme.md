@@ -33,7 +33,7 @@
 <!DOCTYPE html>
 <html>
  <body>
-  <a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Lung%20cancer%20Prediction-ML%20approach/LUNG%20CANCER%20SURVEY-%20MODEL%20CREATION%20(2).ipynb><h1>Lung Cancer Prediction-Most  ML approaches </h1></a>
+  <a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Lung%20cancer%20Prediction-ML%20approach/LUNG%20CANCER%20SURVEY-%20MODEL%20CREATION%20(2).ipynb>Lung Cancer Prediction-Most  ML approaches</a>
    
  * This directory contains predcition of lung cancer among certain age people using the data set from Kaggle.
  * Certain ML approaches are aplied to check who can be the best fit for the prediction 
