@@ -33,6 +33,9 @@
 <!DOCTYPE html>
 <html>
  <body>
+   <a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/SMS%20Spam%20Detection/Spam%20Detection%20in%20SMS.ipynb>
+     SMS Spam Detection
+   </a>
   <a href= https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Lung%20cancer%20Prediction-ML%20approach/LUNG%20CANCER%20SURVEY-%20MODEL%20CREATION%20(2).ipynb>Lung Cancer Prediction-Most  ML approaches</a>
    
  * This directory contains predcition of lung cancer among certain age people using the data set from Kaggle.
