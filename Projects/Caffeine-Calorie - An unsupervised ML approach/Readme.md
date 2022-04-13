@@ -1,5 +1,9 @@
+<!DOCTYPE html>
+<html>
+ <body>
+  
+  <a href=https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Caffeine-Calorie%20-%20An%20unsupervised%20ML%20approach/Caffeine-%20Calorie%20Content%20in%20Drinks%20-%20An%20Unsupervised%20Ml%20Approach%20.ipynb><h1>Caffeine and Calorie content in various drinks</h1></a>
 
-## <u>**Caffeine and Calorie** content in various drinks <u> 
   ![image](https://user-images.githubusercontent.com/99160088/162649060-47e8500e-08e0-4b5f-a5f2-6a3d120c7dcd.png)
 
   
@@ -48,3 +52,5 @@
 * Both Calorie and Caffeine is at the top for **Energy Shots**
 * Coffee is the top most caffeine drink
 * Drinks can be grouped according to its calorie and Caffeine level which makes the user choose appropriately
+  </body>
+</html>
