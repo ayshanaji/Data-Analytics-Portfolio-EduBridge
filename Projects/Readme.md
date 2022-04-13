@@ -38,7 +38,7 @@
  * This directory contains predcition of lung cancer among certain age people using the data set from Kaggle.
  * Certain ML approaches are aplied to check who can be the best fit for the prediction 
   <a href ="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Bike%20Buyers%20-R%20-EDA/Bike%20Buyers%20-R%20-EDA.ipynb">
-    <h1>Bike Riders</h1>
+    Bike Riders
    </a> 
    
 ### This directory contains a quick look on to the R codes analysing a data from Kaggle 
